@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+* Escher metabolic model: JSON file that has coordinates for all the metabolites 
+* -> https://escher.github.io/#/app?map=e_coli_core.Core%20metabolism&tool=Builder&model=e_coli_core
