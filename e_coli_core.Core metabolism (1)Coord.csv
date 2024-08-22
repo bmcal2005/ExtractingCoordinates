@@ -1,0 +1,558 @@
+x,y,type,full_name,bigg_id
+1065,2715,reaction,Phosphoglycerate kinase,PGK
+1930.5045166015625,1313.710205078125,reaction,Phosphogluconate dehydrogenase,GND
+4557.1943359375,1635.4964599609375,reaction,O2 transport  diffusion ,O2t
+3532.891845703125,872.8489990234375,reaction,NAD P  transhydrogenase,THD2
+2759.057373046875,3066,reaction,Fumarase,FUM
+3616,3836,reaction,Isocitrate dehydrogenase (NADP),ICDHyr
+1417.72802734375,3920.71923828125,reaction,Pyruvate dehydrogenase,PDH
+1490.0008544921875,3479.666748046875,reaction,Phosphoenolpyruvate carboxylase,PPC
+1065,3215,reaction,Enolase,ENO
+1065,1385,reaction,Glucose-6-phosphate isomerase,PGI
+3999,4588,reaction,Ammonia reversible transport,NH4t
+751.3809814453125,1733.561767578125,reaction,Fructose-bisphosphatase,FBP
+4968.927734375,2845.8271484375,reaction,Succinate exchange,EX_succ_e
+3427,3847,reaction,Isocitrate lyase,ICL
+3997.07177734375,1251.6114501953125,reaction,Adenylate kinase,ADK1
+4933.3095703125,4131.884765625,reaction,L-Glutamine exchange,EX_gln__L_e
+3631,4904,reaction,CO2 exchange,EX_co2_e
+2197.5205078125,2008.8013916015625,reaction,Transaldolase,TALA
+1065,3695,reaction,Pyruvate kinase,PYK
+4655,3625,reaction,L glutamate transport via proton symport  reversible,GLUt2r
+1065,4915,reaction,D-lactate exchange,EX_lac__D_e
+96.76921081542969,3904.851318359375,reaction,Pyruvate exchange,EX_pyr_e
+1937.57958984375,1422.4544677734375,reaction,Ribulose 5-phosphate 3-epimerase,RPE
+4920.2587890625,2195.827392578125,reaction,H+ exchange,EX_h_e
+3641,3010,reaction,Succinyl-CoA synthetase (ADP-forming),SUCOAS
+1065,1725,reaction,Phosphofructokinase,PFK
+4936.36669921875,3680.79150390625,reaction,L-Glutamate exchange,EX_glu__L_e
+1520.71923828125,1702.785400390625,reaction,Transketolase,TKT2
+4377.22314453125,3875.114990234375,reaction,Glutamine synthetase,GLNS
+3478.431396484375,1319.6259765625,reaction,NAD transhydrogenase,NADTRHD
+3793,3392,reaction,2-Oxogluterate dehydrogenase,AKGDH
+1310.09130859375,4046.8837890625,reaction,Pyruvate formate lyase,PFL
+4894.58984375,1633.8848876953125,reaction,O2 exchange,EX_o2_e
+1377.3328857421875,3600.33447265625,reaction,Phosphoenolpyruvate carboxykinase,PPCK
+2916.97509765625,4649.33837890625,reaction,Phosphate reversible transport via symport,PIt2r
+4594.6474609375,3197.05029296875,reaction,2 oxoglutarate reversible transport via symport,AKGt2r
+969.7942504882812,2031.01611328125,reaction,Fructose-bisphosphate aldolase,FBA
+936.438232421875,2245.297119140625,reaction,Triose-phosphate isomerase,TPI
+4560.4169921875,1954.46044921875,reaction,Cytochrome oxidase bd (ubiquinol-8: 2 protons),CYTBD
+2315,1415,reaction,Ribose-5-phosphate isomerase,RPI
+2921,3378,reaction,Malate synthase,MALS
+1725,4075,reaction,Phosphotransacetylase,PTAr
+4535.24462890625,4133.49658203125,reaction,GLNabc,GLNabc
+2188.595703125,3321.438232421875,reaction,Malic enzyme (NAD),ME1
+1261.46337890625,1320.0572509765625,reaction,Glucose 6-phosphate dehydrogenase,G6PDH2r
+1742.4544677734375,4917.06640625,reaction,Acetate exchange,EX_ac_e
+4253.77685546875,3866.338134765625,reaction,Glutaminase,GLUN
+4241.11474609375,1266.1151123046875,reaction,ATP maintenance requirement,ATPM
+1065,4165,reaction,D-lactate dehydrogenase,LDH_D
+2587,3394,reaction,Malate dehydrogenase,MDH
+3267,4604,reaction,H2O transport via diffusion,H2Ot
+3267,4914,reaction,H2O exchange,EX_h2o_e
+2185,1685,reaction,Transketolase,TKT1
+3631,4594,reaction,CO2 transporter via diffusion,CO2t
+5042,3218,reaction,2-Oxoglutarate exchange,EX_akg_e
+741.8604125976562,3669.90869140625,reaction,Phosphoenolpyruvate synthase,PPS
+1082.5206298828125,598.4705200195312,reaction,D-Glucose exchange,EX_glc__D_e
+2530.6279296875,4611.404296875,reaction,ETOHt2r,ETOHt2r
+1065,2985,reaction,Phosphoglycerate mutase,PGM
+2519.520751953125,4934.28076171875,reaction,Ethanol exchange,EX_etoh_e
+1737.694091796875,4293.5615234375,reaction,Acetate kinase,ACKr
+4001,4908,reaction,Ammonia exchange,EX_nh4_e
+3984.18701171875,3851.553955078125,reaction,Glutamate synthase (NADPH),GLUSy
+2902.694091796875,4926.21484375,reaction,Phosphate exchange,EX_pi_e
+2851.586669921875,845.8676147460938,reaction,Fumarate transport via proton symport  2 H ,FUMt2_2
+1740.8675537109375,4638.470703125,reaction,Acetate reversible transport via proton symport,ACt2r
+1074.520263671875,929.0499877929688,reaction,D-glucose transport via PEP:Pyr PTS,GLCpts
+4451.38818359375,2819.884765625,reaction,Succinate transport out via proton antiport,SUCCt3
+1599.3970947265625,1312.1234130859375,reaction,6-phosphogluconolactonase,PGL
+1065,2385,reaction,Glyceraldehyde-3-phosphate dehydrogenase,GAPD
+2915.057373046875,529.8175659179688,reaction,Fumarate exchange,EX_fum_e
+4501.95703125,2997.661865234375,reaction,Succinate transport via proton symport  2 H ,SUCCt2_2
+4025.81298828125,3671.95703125,reaction,Glutamate dehydrogenase (NADP),GLUDy
+4558.97119140625,1122.273193359375,reaction,ATP synthase (four protons for one ATP),ATPS4r
+2808,3876,reaction,Citrate synthase,CS
+462.6368408203125,3908.02490234375,reaction,Pyruvate transport in via proton symport,PYRt2
+2281.107177734375,3432.36328125,reaction,Malic enzyme (NADP),ME2
+1476.3470458984375,4913.4130859375,reaction,Formate exchange,EX_for_e
+1939.0750732421875,3998.470458984375,reaction,Acetaldehyde dehydrogenase (acetylating),ACALD
+2248.561767578125,4579.041015625,reaction,Acetaldehyde reversible transport,ACALDt
+2227.346923828125,4922.892578125,reaction,Acetaldehyde exchange,EX_acald_e
+2356.4794921875,4047.4384765625,reaction,Alcohol dehydrogenase (ethanol),ALCD2x
+1255.7530517578125,4574.13232421875,reaction,Formate transport in via proton symport,FORt2
+1479.5206298828125,4509.27197265625,reaction,Formate transport via diffusion,FORti
+3078.744384765625,2572.54541015625,reaction,Fumarate reductase,FRD7
+456.41497802734375,1327.7852783203125,reaction,Fructose transport via PEPPyr PTS  f6p generating ,FRUpts2
+125.35597229003906,1321.438232421875,reaction,D-Fructose exchange,EX_fru_e
+2623.173583984375,844.3793334960938,reaction,Malate transport via proton symport  2 H ,MALt2_2
+2356.597412109375,513.949951171875,reaction,L-Malate exchange,EX_mal__L_e
+4589.75537109375,2624.46044921875,reaction,NADH dehydrogenase (ubiquinone-8 & 3 protons),NADH16
+3108.851318359375,2862.949951171875,reaction,Succinate dehydrogenase (irreversible),SUCDi
+1078.65283203125,4609.72607421875,reaction,D lactate transport via proton symport,D_LACt2
+5392.94580078125,4746.6962890625,reaction,Biomass Objective Function with GAM,BIOMASS_Ecoli_core_w_GAM
+2982.991259697708,4088.6436288689247,reaction,"Aconitase (half-reaction A, Citrate hydro-lyase)",ACONTa
+3291.833217745038,4081.35343547726,reaction,"Aconitase (half-reaction B, Isocitrate hydro-lyase)",ACONTb
+1145,2805,metabolite,ATP,atp_c
+1055,2875,metabolite,3-Phospho-D-glycerate,3pg_c
+1055,2565,metabolite,3-Phospho-D-glyceroyl phosphate,13dpg_c
+1145,2635,metabolite,ADP,adp_c
+1907,1165,metabolite,Nicotinamide adenine dinucleotide phosphate,nadp_c
+1827,1265,metabolite,6-Phospho-D-gluconate,6pgc_c
+2007,1165,metabolite,CO2,co2_c
+2057,1165,metabolite,Nicotinamide adenine dinucleotide phosphate - reduced,nadph_c
+2155,1265,metabolite,D-Ribulose 5-phosphate,ru5p__D_c
+4850,1660,metabolite,O2,o2_e
+4330,1660,metabolite,O2,o2_c
+3330,1270,metabolite,Nicotinamide adenine dinucleotide phosphate,nadp_c
+3420,1120,metabolite,Nicotinamide adenine dinucleotide - reduced,nadh_c
+3510,650,metabolite,H+,h_e
+3510,1080.287841796875,metabolite,H+,h_c
+3740,1270,metabolite,Nicotinamide adenine dinucleotide phosphate - reduced,nadph_c
+3625.7841796875,1147.3958740234375,metabolite,Nicotinamide adenine dinucleotide,nad_c
+2715,2921,metabolite,H2O,h2o_c
+2843,2920,metabolite,Fumarate,fum_c
+2621,3192,metabolite,L-Malate,mal__L_c
+3413,3976,metabolite,Isocitrate,icit_c
+3495,4065,metabolite,Nicotinamide adenine dinucleotide phosphate,nadp_c
+3659,3660,metabolite,Nicotinamide adenine dinucleotide phosphate - reduced,nadph_c
+3620,3710,metabolite,CO2,co2_c
+3746,3627,metabolite,2-Oxoglutarate,akg_c
+1365,3855,metabolite,Nicotinamide adenine dinucleotide,nad_c
+1055,3945,metabolite,Pyruvate,pyr_c
+1315,3905,metabolite,Coenzyme A,coa_c
+1605,3855,metabolite,CO2,co2_c
+1715,3945,metabolite,Acetyl-CoA,accoa_c
+1655,3885,metabolite,Nicotinamide adenine dinucleotide - reduced,nadh_c
+1295,3375,metabolite,H2O,h2o_c
+1055,3375,metabolite,Phosphoenolpyruvate,pep_c
+1205,3345,metabolite,CO2,co2_c
+1615,3475,metabolite,H+,h_c
+1665,3515,metabolite,Phosphate,pi_c
+2659,3724,metabolite,Oxaloacetate,oaa_c
+1055,3125,metabolite,D-Glycerate 2-phosphate,2pg_c
+965,3325,metabolite,H2O,h2o_c
+1055,1265,metabolite,D-Glucose 6-phosphate,g6p_c
+1055,1545,metabolite,D-Fructose 6-phosphate,f6p_c
+3989,4757,metabolite,Ammonium,nh4_e
+3989,4441,metabolite,Ammonium,nh4_c
+765,1855,metabolite,H2O,h2o_c
+1055,1925,metabolite,"D-Fructose 1,6-bisphosphate",fdp_c
+755,1565,metabolite,Phosphate,pi_c
+4932,2880,metabolite,Succinate,succ_e
+3180,3570,metabolite,Glyoxylate,glx_c
+3420,2867,metabolite,Succinate,succ_c
+4215,1040,metabolite,ATP,atp_c
+4065,1070,metabolite,AMP,amp_c
+4215,1510,metabolite,ADP,adp_c
+4882,4158,metabolite,L-Glutamine,gln__L_e
+4758.67626953125,2215.0361328125,metabolite,Ubiquinone-8,q8_c
+4508.47509765625,2210.3310546875,metabolite,Ubiquinol-8,q8h2_c
+3621,4754,metabolite,CO2,co2_e
+2358.984130859375,1865,metabolite,Glyceraldehyde 3-phosphate,g3p_c
+1983.082275390625,1865,metabolite,Sedoheptulose 7-phosphate,s7p_c
+1945,2190,metabolite,D-Erythrose 4-phosphate,e4p_c
+2362.636962890625,2186.826416015625,metabolite,D-Fructose 6-phosphate,f6p_c
+965,3625,metabolite,H+,h_c
+965,3555,metabolite,ADP,adp_c
+965,3815,metabolite,ATP,atp_c
+4883,3634,metabolite,L-Glutamate,glu__L_e
+4825,3703,metabolite,H+,h_e
+4248,3632,metabolite,L-Glutamate,glu__L_c
+4478,3688,metabolite,H+,h_c
+1055,4835,metabolite,D-Lactate,lac__D_e
+275,3945,metabolite,Pyruvate,pyr_e
+1945,1555,metabolite,D-Xylulose 5-phosphate,xu5p__D_c
+4850,2229,metabolite,H+,h_e
+3460,2960,metabolite,Coenzyme A,coa_c
+3500,3030,metabolite,ATP,atp_c
+3794,3051,metabolite,Phosphate,pi_c
+3739,3193,metabolite,Succinyl-CoA,succoa_c
+3768,3116,metabolite,ADP,adp_c
+1145,1645,metabolite,ATP,atp_c
+1145,1805,metabolite,ADP,adp_c
+1145,1855,metabolite,H+,h_c
+1055,2195,metabolite,Glyceraldehyde 3-phosphate,g3p_c
+4440,3755,metabolite,ATP,atp_c
+4440,3805,metabolite,Ammonium,nh4_c
+4246,4094,metabolite,L-Glutamine,gln__L_c
+4434,3954,metabolite,ADP,adp_c
+4434,4004,metabolite,H+,h_c
+4434,4054,metabolite,Phosphate,pi_c
+1055,4345,metabolite,D-Lactate,lac__D_c
+3684,3506,metabolite,Coenzyme A,coa_c
+3684,3558,metabolite,Nicotinamide adenine dinucleotide,nad_c
+3872,3285,metabolite,CO2,co2_c
+3820,3233,metabolite,Nicotinamide adenine dinucleotide - reduced,nadh_c
+1165,4045,metabolite,Coenzyme A,coa_c
+1460,4095,metabolite,Formate,for_c
+1505,3625,metabolite,ATP,atp_c
+1285,3545,metabolite,ADP,adp_c
+1215,3515,metabolite,CO2,co2_c
+2880,4839,metabolite,Phosphate,pi_e
+2793,4778,metabolite,H+,h_e
+2793,4452,metabolite,H+,h_c
+2880,4430,metabolite,Phosphate,pi_c
+4922,3228,metabolite,2-Oxoglutarate,akg_e
+4834,3321,metabolite,H+,h_e
+4472,3328,metabolite,H+,h_c
+855,2195,metabolite,Dihydroxyacetone phosphate,dhap_c
+4301.69775390625,1895.1654052734375,metabolite,H+,h_c
+4860,1900,metabolite,H+,h_e
+4439.09375,1760.9495849609375,metabolite,H2O,h2o_c
+2419,1555,metabolite,Alpha-D-Ribose 5-phosphate,r5p_c
+3105,3402,metabolite,Acetyl-CoA,accoa_c
+3170,3480,metabolite,H2O,h2o_c
+2871,3220,metabolite,H+,h_c
+2780,3168,metabolite,Coenzyme A,coa_c
+1815,4035,metabolite,Phosphate,pi_c
+1715,4175,metabolite,Acetyl phosphate,actp_c
+1815,4135,metabolite,Coenzyme A,coa_c
+4535,4258,metabolite,ATP,atp_c
+4485,4258,metabolite,H2O,h2o_c
+4285,4258,metabolite,Phosphate,pi_c
+4385,4258,metabolite,ADP,adp_c
+4335,4258,metabolite,H+,h_c
+2360,3220,metabolite,Nicotinamide adenine dinucleotide,nad_c
+2060,3420,metabolite,CO2,co2_c
+2080,3370,metabolite,Nicotinamide adenine dinucleotide - reduced,nadh_c
+1257,1160,metabolite,Nicotinamide adenine dinucleotide phosphate,nadp_c
+1407,1160,metabolite,Nicotinamide adenine dinucleotide phosphate - reduced,nadph_c
+1357,1160,metabolite,H+,h_c
+1507,1265,metabolite,"6-phospho-D-glucono-1,5-lactone",6pgl_c
+1715,4845,metabolite,Acetate,ac_e
+4201,3940,metabolite,H2O,h2o_c
+4193,3762,metabolite,Ammonium,nh4_c
+4275,1140,metabolite,H2O,h2o_c
+4285,1450,metabolite,Phosphate,pi_c
+4285,1380,metabolite,H+,h_c
+955,4255,metabolite,Nicotinamide adenine dinucleotide,nad_c
+955,4045,metabolite,Nicotinamide adenine dinucleotide - reduced,nadh_c
+955,4095,metabolite,H+,h_c
+2670,3310,metabolite,Nicotinamide adenine dinucleotide,nad_c
+2680,3585,metabolite,Nicotinamide adenine dinucleotide - reduced,nadh_c
+2660,3510,metabolite,H+,h_c
+3257,4754,metabolite,H2O,h2o_e
+3257,4434,metabolite,H2O,h2o_c
+3621,4434,metabolite,CO2,co2_c
+735,3855,metabolite,ATP,atp_c
+735,3805,metabolite,H2O,h2o_c
+735,3475,metabolite,H+,h_c
+735,3525,metabolite,AMP,amp_c
+735,3425,metabolite,Phosphate,pi_c
+1055.066162109375,705,metabolite,D-Glucose,glc__D_e
+2600,4760,metabolite,H+,h_e
+2500,4830,metabolite,Ethanol,etoh_e
+2600,4400,metabolite,H+,h_c
+1815,4335,metabolite,ATP,atp_c
+1715,4385,metabolite,Acetate,ac_c
+1815,4225,metabolite,ADP,adp_c
+4029,3932,metabolite,Nicotinamide adenine dinucleotide phosphate - reduced,nadph_c
+4029,3982,metabolite,H+,h_c
+4043,3759,metabolite,Nicotinamide adenine dinucleotide phosphate,nadp_c
+2840,650,metabolite,Fumarate,fum_e
+2940,700,metabolite,H+,h_e
+2940,1010,metabolite,H+,h_c
+1815,4775,metabolite,H+,h_e
+1819.76025390625,4452.45458984375,metabolite,H+,h_c
+957.694091796875,974.4060668945312,metabolite,Phosphoenolpyruvate,pep_c
+1161.3470458984375,972.8192138671875,metabolite,Pyruvate,pyr_c
+4791.7197265625,2921.942138671875,metabolite,H+,h_e
+4461.380859375,2763.553955078125,metabolite,H+,h_c
+1460,4843.322265625,metabolite,Formate,for_e
+1587,1160,metabolite,H2O,h2o_c
+1687,1160,metabolite,H+,h_c
+1145,2265,metabolite,Nicotinamide adenine dinucleotide,nad_c
+1145,2315,metabolite,Phosphate,pi_c
+1145,2515,metabolite,Nicotinamide adenine dinucleotide - reduced,nadh_c
+1145,2465,metabolite,H+,h_c
+4836,3087,metabolite,H+,h_e
+4456,3087,metabolite,H+,h_c
+4192,3558,metabolite,H2O,h2o_c
+4142,3558,metabolite,Nicotinamide adenine dinucleotide phosphate,nadp_c
+3992,3558,metabolite,Nicotinamide adenine dinucleotide phosphate - reduced,nadph_c
+3942,3558,metabolite,Ammonium,nh4_c
+4042,3558,metabolite,H+,h_c
+4865,1150,metabolite,H+,h_e
+4495,1330,metabolite,Phosphate,pi_c
+4415,1150,metabolite,H+,h_c
+4482.7265625,1030,metabolite,H2O,h2o_c
+2610,3860,metabolite,H2O,h2o_c
+2971,3986,metabolite,Citrate,cit_c
+2806,4091,metabolite,Coenzyme A,coa_c
+2897,4117,metabolite,H+,h_c
+345,4045,metabolite,H+,h_e
+675,4045,metabolite,H+,h_c
+2430,3370,metabolite,Nicotinamide adenine dinucleotide phosphate,nadp_c
+2260,3510,metabolite,CO2,co2_c
+2200,3540,metabolite,Nicotinamide adenine dinucleotide phosphate - reduced,nadph_c
+4850,2570,metabolite,H+,h_e
+4449.00732421875,2646.77685546875,metabolite,Nicotinamide adenine dinucleotide,nad_c
+2510,1010,metabolite,H+,h_c
+1270,4440,metabolite,H+,h_c
+1890,3860,metabolite,Nicotinamide adenine dinucleotide - reduced,nadh_c
+2392,3980,metabolite,H+,h_c
+3210,2730,metabolite,Ubiquinone-8,q8_c
+2210,4837.65283203125,metabolite,Acetaldehyde,acald_e
+2610,650,metabolite,L-Malate,mal__L_e
+2210,3945,metabolite,Acetaldehyde,acald_c
+565.6046142578125,1448.4132080078125,metabolite,Phosphoenolpyruvate,pep_c
+4310,2570,metabolite,H+,h_c
+714.76025390625,1237.785400390625,metabolite,Pyruvate,pyr_c
+2482,4065,metabolite,Nicotinamide adenine dinucleotide,nad_c
+2333,3935,metabolite,Nicotinamide adenine dinucleotide - reduced,nadh_c
+2130,3860,metabolite,Coenzyme A,coa_c
+300,1360,metabolite,D-Fructose,fru_e
+4417.8271484375,2478.91357421875,metabolite,Nicotinamide adenine dinucleotide - reduced,nadh_c
+2070,3860,metabolite,Nicotinamide adenine dinucleotide,nad_c
+2501,4228,metabolite,Ethanol,etoh_c
+3020,2740,metabolite,Ubiquinol-8,q8h2_c
+2510,700,metabolite,H+,h_e
+1950,3860,metabolite,H+,h_c
+1270,4770,metabolite,H+,h_e
+1055,2665,multimarker,,
+1055,2775,multimarker,,
+1055,2725,midmarker,,
+1957,1265,midmarker,,
+1937,1265,multimarker,,
+1977,1265,multimarker,,
+4660,1660,midmarker,,
+3510,820,midmarker,,
+3510,800,multimarker,,
+3510,870,multimarker,,
+2727,3022,multimarker,,
+2684,3076,midmarker,,
+3606,3846,midmarker,,
+3512,3923,multimarker,,
+3663,3781,multimarker,,
+1430,3945,multimarker,,
+1495,3945,midmarker,,
+1555,3945,multimarker,,
+1414,3486,midmarker,,
+1493,3519,multimarker,,
+1348,3458,multimarker,,
+1055,3265,multimarker,,
+1055,3225,midmarker,,
+1055,1395,midmarker,,
+3989,4598,midmarker,,
+835,1715,midmarker,,
+835,1665,multimarker,,
+835,1765,multimarker,,
+5025,2880,midmarker,,
+3417,3766,multimarker,,
+3417,3857,midmarker,,
+4145,1260,midmarker,,
+4145,1200,multimarker,,
+5020,4158,midmarker,,
+3621,4914,midmarker,,
+2178,1995,midmarker,,
+2175,1955,multimarker,,
+2178,2035,multimarker,,
+1055,3655,multimarker,,
+1055,3705,midmarker,,
+1055,3745,multimarker,,
+4645,3635,midmarker,,
+4541,3635,multimarker,,
+4779,3635,multimarker,,
+1055,4925,midmarker,,
+155,3945,midmarker,,
+2045,1415,midmarker,,
+4986,2230,midmarker,,
+3631,3020,midmarker,,
+3588,2976,multimarker,,
+3666,3063,multimarker,,
+1055,1735,midmarker,,
+1055,1775,multimarker,,
+1055,1690,multimarker,,
+5015,3636,midmarker,,
+1525,1735,midmarker,,
+1695,1735,multimarker,,
+1405,1735,multimarker,,
+4364,3889,multimarker,,
+4364,3869,midmarker,,
+4364,3849,multimarker,,
+3470,1270,multimarker,,
+3570,1270,multimarker,,
+3520,1270,midmarker,,
+3780,3480,multimarker,,
+3783,3402,midmarker,,
+3776,3330,multimarker,,
+1335,3995,midmarker,,
+1255,3995,multimarker,,
+1415,3995,multimarker,,
+4970,1660,midmarker,,
+1404,3526,midmarker,,
+1485,3554,multimarker,,
+1335,3503,multimarker,,
+2880,4520,multimarker,,
+2880,4580,midmarker,,
+2880,4725,multimarker,,
+4502,3228,multimarker,,
+4792,3228,multimarker,,
+4662,3228,midmarker,,
+1055,2045,multimarker,,
+1055,1995,midmarker,,
+955,2195,midmarker,,
+4660,1900,midmarker,,
+4690,1900,multimarker,,
+4630,1900,multimarker,,
+2305,1425,midmarker,,
+2843,3341,multimarker,,
+2994,3445,multimarker,,
+2911,3388,midmarker,,
+1715,4065,multimarker,,
+1715,4105,multimarker,,
+1715,4085,midmarker,,
+4415,4158,multimarker,,
+4435,4158,midmarker,,
+4455,4158,multimarker,,
+2310,3330,multimarker,,
+2250,3360,midmarker,,
+2190,3390,multimarker,,
+1327,1265,multimarker,,
+1307,1265,midmarker,,
+1287,1265,multimarker,,
+1715,4935,midmarker,,
+4247,3815,multimarker,,
+4247,3877,multimarker,,
+4247,3857,midmarker,,
+4215,1200,multimarker,,
+4215,1260,midmarker,,
+4215,1350,multimarker,,
+1055,4125,multimarker,,
+1055,4225,multimarker,,
+1055,4175,midmarker,,
+2578,3456,multimarker,,
+2577,3404,midmarker,,
+2582,3341,multimarker,,
+3257,4614,midmarker,,
+3257,4924,midmarker,,
+2175,1645,multimarker,,
+2175,1695,midmarker,,
+2175,1735,multimarker,,
+3621,4604,midmarker,,
+5032,3228,midmarker,,
+835,3805,multimarker,,
+835,3525,multimarker,,
+835,3645,midmarker,,
+1056.6529541015625,543.4132690429688,midmarker,,
+2500,4430,multimarker,,
+2500,4550,midmarker,,
+2500,4730,multimarker,,
+1055,2995,midmarker,,
+2500,4937.93359375,midmarker,,
+1715,4305,multimarker,,
+1715,4275,midmarker,,
+1715,4255,multimarker,,
+3991,4918,midmarker,,
+4116,3888,multimarker,,
+4116,3848,multimarker,,
+4116,3868,midmarker,,
+2880,4925.107421875,midmarker,,
+2840,730,multimarker,,
+2840,980,multimarker,,
+2840,840,midmarker,,
+1715,4745,multimarker,,
+1715,4585,midmarker,,
+1715,4501.49560546875,multimarker,,
+1056.5865478515625,1008.8675537109375,midmarker,,
+1057,976.1735229492188,multimarker,,
+1056.5867919921875,1041.710205078125,multimarker,,
+4667,2846,midmarker,,
+4770,2846,multimarker,,
+4560,2846,multimarker,,
+1637,1265,midmarker,,
+1657,1265,multimarker,,
+1617,1265,multimarker,,
+1055,2345,multimarker,,
+1055,2435,multimarker,,
+1055,2395,midmarker,,
+2840,470,midmarker,,
+4666,3027,midmarker,,
+4536,3027,multimarker,,
+4796,3027,multimarker,,
+4078,3632,multimarker,,
+4098,3632,midmarker,,
+4118,3632,multimarker,,
+4705,1150,multimarker,,
+4625,1150,multimarker,,
+4665,1150,midmarker,,
+2744,3837,multimarker,,
+2840,3918,multimarker,,
+2798,3886,midmarker,,
+375,3945,multimarker,,
+645,3945,multimarker,,
+505,3945,midmarker,,
+2260,3390,midmarker,,
+2220,3410,multimarker,,
+2310,3360,multimarker,,
+1460,4925,midmarker,,
+2040,3945,multimarker,,
+2010,3945,midmarker,,
+1980,3945,multimarker,,
+2210,4570,midmarker,,
+2211,4944,midmarker,,
+2371,4100,multimarker,,
+2356,4086,midmarker,,
+2342,4071,multimarker,,
+1360,4730,multimarker,,
+1360,4600,midmarker,,
+1360,4470,multimarker,,
+1460,4432,midmarker,,
+3080,2600,multimarker,,
+3110,2600,midmarker,,
+3140,2600,multimarker,,
+576.050048828125,1361.5867919921875,multimarker,,
+640,1361.586669921875,midmarker,,
+704.5778198242188,1361.586669921875,multimarker,,
+182,1360,midmarker,,
+2610,736,multimarker,,
+2610,756,midmarker,,
+2610,980,multimarker,,
+2610,470,midmarker,,
+4630,2570,multimarker,,
+4670,2570,midmarker,,
+4710,2570,multimarker,,
+3180,2817,multimarker,,
+3129,2819,midmarker,,
+3078,2826,multimarker,,
+1055,4660.98193359375,multimarker,,
+1055,4583.8583984375,midmarker,,
+1053.4132080078125,4506.7353515625,multimarker,,
+1095,4750.98193359375,metabolite,H+,h_e
+1093.4132080078125,4416.7353515625,metabolite,H+,h_c
+5527.4580078125,4574.02490234375,metabolite,H2O,h2o_c
+5334.0517578125,4717.48193359375,multimarker,,
+5334.0517578125,4737.48193359375,midmarker,,
+5334.0517578125,4757.48193359375,multimarker,,
+5503.33544921875,4924.5068359375,metabolite,ADP,adp_c
+5534.521484375,4651.92236328125,metabolite,L-Glutamate,glu__L_c
+5512.26513671875,4517.58447265625,metabolite,Glyceraldehyde 3-phosphate,g3p_c
+5437.546875,4466.33544921875,metabolite,D-Erythrose 4-phosphate,e4p_c
+5262.95361328125,4994.3544921875,metabolite,H+,h_c
+5403.0185546875,4418.7158203125,metabolite,Alpha-D-Ribose 5-phosphate,r5p_c
+5183.9716796875,4488.05615234375,metabolite,ATP,atp_c
+5087.0712890625,4498.61865234375,metabolite,D-Fructose 6-phosphate,f6p_c
+4988.05859375,4509.18115234375,metabolite,Pyruvate,pyr_c
+4893.27099609375,4529.25048828125,metabolite,Nicotinamide adenine dinucleotide,nad_c
+5208.85205078125,4931.947265625,metabolite,Coenzyme A,coa_c
+4783.69580078125,4544.03759765625,metabolite,Oxaloacetate,oaa_c
+4700.52734375,4559.88134765625,metabolite,D-Glucose 6-phosphate,g6p_c
+5134.0517578125,4897.1259765625,metabolite,Nicotinamide adenine dinucleotide - reduced,nadh_c
+5481.046875,4979.51025390625,metabolite,2-Oxoglutarate,akg_c
+4601.51416015625,4576.78173828125,metabolite,Acetyl-CoA,accoa_c
+4508.83935546875,4602.1318359375,metabolite,3-Phospho-D-glycerate,3pg_c
+4414.0517578125,4629.59423828125,metabolite,Phosphoenolpyruvate,pep_c
+4332.9951171875,4650.7197265625,metabolite,L-Glutamine,gln__L_c
+5028.71435546875,4864.818359375,metabolite,Nicotinamide adenine dinucleotide phosphate,nadp_c
+4267.78271484375,4682.4072265625,metabolite,Nicotinamide adenine dinucleotide phosphate - reduced,nadph_c
+4933.43505859375,4831.37548828125,metabolite,Phosphate,pi_c
+3055.6239109998846,4023.6457547875243,multimarker,,
+3074.275683525833,4030.8645761345497,midmarker,,
+3092.9274560517806,4038.0833974815746,multimarker,,
+3188.1170476587818,3976.144484067998,metabolite,H2O,h2o_c
+3197.4642088485407,4053.2845721909744,metabolite,Cis-Aconitate,acon_C_c
+3294.488060371458,4035.7165277261324,multimarker,,
+3312.895717745038,4027.896160086635,midmarker,,
+3331.3033751186185,4020.0757924471372,multimarker,,
